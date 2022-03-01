@@ -1,0 +1,16 @@
+.home{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+}
+
+.contenedor-header{
+    display:flex;
+    flex-direction: column;
+    
+}
+.Flex-header-body{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,37 @@
+.title{
+    margin-top: 0px;
+    font-family: font-file-82132;
+    color: #07c9ac;
+    font-weight: 400;
+    position: relative;
+    margin-bottom: 40px;
+    left: -10px;
+    font-size: 7.3rem;
+    line-height: 6.7rem;
+    margin-left: 20%;
+}
+
+.container-about{
+    height: 950px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.parraf{
+    margin-left: 20%;
+    width: 600px;
+}
+
+.hyper-contact{
+    color: #08fdd8;
+    -webkit-transition: color 0.3s;
+    -o-transition: color 0.3s;
+    transition: color 0.3s;
+    text-decoration: none;
+    margin-left: 20%;
+
+
+}
+

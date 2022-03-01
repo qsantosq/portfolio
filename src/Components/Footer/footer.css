@@ -1,0 +1,18 @@
+.footer{
+    background-color: rgb(226, 226, 226);
+    position: fixed;
+    top: 91%;
+    width: 15%;
+    text-align: center;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-top: 1px solid rgb(160, 160, 160);
+}
+
+.h1-FOT{
+    font-size: 16px;
+    margin: 0;
+}
