@@ -3,7 +3,12 @@ import "./header.css"
 import { Link } from "react-router-dom"
 
 const Header = () => {
+
+
+
+
   return (
+      
     <div className="header">
 
     <div className="contenedor-img">
@@ -11,7 +16,7 @@ const Header = () => {
     </div>
     <div className="contenedor-menu">
         <div className="navbar">
-            <Link to={"/"} >Home</Link>
+            <Link to={"/"} className="a" >Home</Link>
         </div>
         <div className="navbar">
              <Link to={"/about"} >About Me</Link>

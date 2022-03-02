@@ -5,4 +5,11 @@ setTimeout y una prop con el % a cargar. Esto fue incluido en mi Portfolio.
 
 PROXIMO DESAFIO LOADING SCREEN 
 
+Se agregaron animaciones cada vez que se cargan las paginas utilizando el npm spinner y 
+un useeffect para devolverlo despues
+
+
 DIA 2 - 
+
+
+  

@@ -32,6 +32,15 @@ h4{
     width: 600px;
 }
 
+.conteiner-skills-true{
+    height: 950px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10%;
+    width: 600px;
+}
+
 .skills{
     display: flex;
     flex-direction: column;
@@ -170,4 +179,10 @@ h4{
 	width: 0;
 	opacity: 0;
 	transition: 1s ease 0.3s;
+}
+
+.sweet-loading{
+    display: block;
+    margin: 0 auto;
+    border-color: red;
 }
